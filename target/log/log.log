@@ -1,0 +1,54 @@
+2024-08-12 19:19:43 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-12 19:19:44 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-08-12 19:19:45 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-08-12 19:19:45 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-08-12 19:19:45 INFO  - Browser 'CHROME' ready...
+2024-08-12 19:19:45 INFO  - Maximizing browser window
+2024-08-12 19:19:46 INFO  - Navigate to url - 'http://www.uitestingplayground.com/'
+2024-08-12 19:19:48 INFO  - Link 'Sample App' :: Clicking
+2024-08-12 19:19:49 INFO  - Text Field 'Username Input' :: Clearing
+2024-08-12 19:19:49 INFO  - Text Field 'Username Input' :: Typing 'b2d39b8f-2d97-4988-a79b-d7f89023ac44'
+2024-08-12 19:19:49 INFO  - Text Field 'Password Input' :: Clearing
+2024-08-12 19:19:49 INFO  - Text Field 'Password Input' :: Typing 'pwd'
+2024-08-12 19:19:49 INFO  - Button 'Login Button' :: Clicking
+2024-08-12 19:19:49 INFO  - Label 'Log In Successful' :: Getting text from element
+2024-08-12 19:19:49 INFO  - Label 'Log In Successful' :: Element's text: [Welcome, b2d39b8f-2d97-4988-a79b-d7f89023ac44!]
+2024-08-12 19:19:49 INFO  - Closing browser
+2024-08-12 19:20:30 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-12 19:20:30 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-08-12 19:20:31 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-08-12 19:20:31 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-08-12 19:20:31 INFO  - Browser 'CHROME' ready...
+2024-08-12 19:20:31 INFO  - Maximizing browser window
+2024-08-12 19:20:31 INFO  - Navigate to url - 'http://www.uitestingplayground.com/'
+2024-08-12 19:20:34 INFO  - Link 'Sample App' :: Clicking
+2024-08-12 19:20:35 INFO  - Text Field 'Username Input' :: Clearing
+2024-08-12 19:20:35 INFO  - Text Field 'Username Input' :: Typing '5ee2eb4d-f2a9-49ad-b654-beee073ed8e0'
+2024-08-12 19:20:35 INFO  - Text Field 'Password Input' :: Clearing
+2024-08-12 19:20:35 INFO  - Text Field 'Password Input' :: Typing 'pwd'
+2024-08-12 19:20:35 INFO  - Button 'Login Button' :: Clicking
+2024-08-12 19:20:35 INFO  - Label 'Log In Successful' :: Getting text from element
+2024-08-12 19:20:35 INFO  - Label 'Log In Successful' :: Element's text: [Welcome, 5ee2eb4d-f2a9-49ad-b654-beee073ed8e0!]
+2024-08-12 19:20:35 INFO  - Closing browser
+2024-08-12 19:20:50 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-08-12 19:20:50 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-08-12 19:20:52 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-08-12 19:20:52 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-08-12 19:20:52 INFO  - Browser 'CHROME' ready...
+2024-08-12 19:20:52 INFO  - Maximizing browser window
+2024-08-12 19:20:52 INFO  - Navigate to url - 'http://www.uitestingplayground.com/'
+2024-08-12 19:20:55 INFO  - Link 'Sample App' :: Clicking
+2024-08-12 19:20:55 INFO  - Text Field 'Username Input' :: Clearing
+2024-08-12 19:20:55 INFO  - Text Field 'Username Input' :: Typing '6f22986d-7390-4210-9a10-9d23528f1d2e'
+2024-08-12 19:20:55 INFO  - Text Field 'Password Input' :: Clearing
+2024-08-12 19:20:55 INFO  - Text Field 'Password Input' :: Typing 'pwd'
+2024-08-12 19:20:56 INFO  - Button 'Login Button' :: Clicking
+2024-08-12 19:20:56 INFO  - Label 'Log In Successful' :: Getting text from element
+2024-08-12 19:20:56 INFO  - Label 'Log In Successful' :: Element's text: [Welcome, 6f22986d-7390-4210-9a10-9d23528f1d2e!]
+2024-08-12 19:20:56 INFO  - Closing browser
